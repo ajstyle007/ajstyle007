@@ -1,5 +1,7 @@
 `About_me()`
 
+## Hi I am Ajay, a Data Science Enthusiast 👨🏻‍💻👨🏻‍💻
+
 <!--
 **ajstyle007/ajstyle007** 
 Here are some ideas to get you started:
