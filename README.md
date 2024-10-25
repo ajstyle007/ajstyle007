@@ -3,7 +3,7 @@
 # Hi I am Ajay?
 ## A Data Science Enthusiast 👨🏻‍💻👨🏻‍💻
 
-### 🏳️ **INDIA** <br><br>
+### 🏳️ **INDIA** 
 📧 **Email**: kumarajaypaonta@gmail.com <br>
 🔗 **LinkedIn**: [Ajay's LinkedIn](https://www.linkedin.com/in/ajay-kumar-72ba861b8/) <br>
 🤗 **Hugging Face**: [Spaces](https://huggingface.co/musk12) <br>
