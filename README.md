@@ -1,7 +1,7 @@
 `About_me()`
 
 # Hi I am Ajay?
-## A Data Science Enthusiast 👨🏻‍💻👨🏻‍💻
+## A Data Science Enthusiast 👨🏻‍💻👽
 
 ### 🌍 **INDIA** 
 📧 **Email**: kumarajaypaonta@gmail.com <br>
