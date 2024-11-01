@@ -23,6 +23,10 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-3776AB?style=flat-square&logo=tensorflow)
 ![NLP](https://img.shields.io/badge/-NLP-3776AB?style=flat-square&logo=python)
 
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Hugging Face Spaces](https://img.shields.io/badge/-Hugging%20Face%20Spaces-FFD700?logo=huggingface&logoColor=black&style=flat-square)
 
  
 
