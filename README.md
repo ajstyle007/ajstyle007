@@ -18,6 +18,11 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-102230?logo=data:image/svg+xml;base64,...&style=flat-square)
+![Data Science](https://img.shields.io/badge/-Data_Science-3776AB?style=flat-square&logo=python)
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-3776AB?style=flat-square&logo=tensorflow)
+![NLP](https://img.shields.io/badge/-NLP-3776AB?style=flat-square&logo=python)
+
 
  
 
