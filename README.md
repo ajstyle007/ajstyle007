@@ -30,5 +30,18 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![Hugging Face Spaces](https://img.shields.io/badge/-Hugging%20Face%20Spaces-FFD700?logo=huggingface&logoColor=black&style=flat-square)
 
+## 📊 Data Analysis Tools
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white&style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logoColor=white&style=flat-square)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=flat-square)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat-square)
+
+
+
  
 
