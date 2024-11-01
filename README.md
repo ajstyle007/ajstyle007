@@ -24,6 +24,8 @@
 ![Data Science](https://img.shields.io/badge/-Data_Science-3776AB?style=flat-square&logo=python)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-3776AB?style=flat-square&logo=tensorflow)
 ![NLP](https://img.shields.io/badge/-NLP-3776AB?style=flat-square&logo=python)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
