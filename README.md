@@ -16,7 +16,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
 
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-102230?logo=data:image/svg+xml;base64,...&style=flat-square)
 ![Data Science](https://img.shields.io/badge/-Data_Science-3776AB?style=flat-square&logo=python)
