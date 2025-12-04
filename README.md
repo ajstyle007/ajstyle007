@@ -3,8 +3,10 @@
 # Hi I am Ajay?
 ## A Data Science Enthusiast 👨🏻‍💻👽
 
-👋 Hi, I'm [Your Name], a research-driven Data Scientist and Deep Learning Engineer specializing in building and training custom AI models from scratch.  
+```
+👋 Hi, I'm Ajay Kumar, a research-driven Data Scientist and Deep Learning Engineer specializing in building and training custom AI models from scratch.  
 I develop cutting-edge architectures like Transformers, GANs, and GANs, with a passion for understanding models at the fundamental level and deploying them live.
+```
 
 ### 🌍 **INDIA** 
 📧 **Email**: kumarajaypaonta@gmail.com <br>
