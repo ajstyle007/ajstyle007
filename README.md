@@ -12,7 +12,8 @@ with a passion for understanding models at the fundamental level and deploying t
 
 ### 🌍 **INDIA** 
 📧 **Email**: kumarajaypaonta@gmail.com <br>
-📄 **Portfolio**: [Ajay's portfolio](https://musk12-portfolio-ajay.hf.space/) <br>
+# 📄 **Portfolio**: [Ajay's portfolio](https://musk12-portfolio-ajay.hf.space/) <br>
+📄 **Portfolio**: [Ajay's portfolio](https://ajstyle007.github.io/) <br>
 🔗 **LinkedIn**: [Ajay's LinkedIn](https://www.linkedin.com/in/ajay-kumar-72ba861b8/) <br>
 🤗 **Hugging Face**: [Spaces](https://huggingface.co/musk12) <br>
 ⓜ [Medium Blogs](https://medium.com/@kumarajaypaonta)
