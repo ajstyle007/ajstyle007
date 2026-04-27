@@ -3,7 +3,7 @@
 ## Hi, I'm Ajay Kumar?
 ### Data Scientist | Deep Learning Engineer | GenAI Architect 👨🏻‍💻👽
 
-```
+
 I bridge the gap between theoretical research and production-grade engineering.
 I don’t just use models; I build them from first principles.
 
@@ -15,7 +15,7 @@ I don’t just use models; I build them from first principles.
 </ul>
 
 <i>"Building the future, one tensor at a time."</i>
-```
+
 
 ### 🌍 **INDIA** 
 ## 🛠️ Connect with me
