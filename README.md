@@ -21,7 +21,7 @@ I don’t just use models; I build them from first principles.
 📄 **Portfolio**: [Ajay's portfolio](https://ajstyle007.github.io/) <br>
 🔗 **LinkedIn**: [Ajay's LinkedIn](https://www.linkedin.com/in/ajay-kumar-72ba861b8/) <br>
 🤗 **Hugging Face**: [Spaces](https://huggingface.co/musk12) <br>
-𝕏 **X**: [X](https://x.com/Aj_Neural) <br>
+ 𝕏 **X Account**: [X](https://x.com/Aj_Neural) <br>
 ⓜ [Medium Blogs](https://medium.com/@kumarajaypaonta)
 
 
