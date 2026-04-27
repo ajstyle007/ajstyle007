@@ -7,12 +7,14 @@
 I bridge the gap between theoretical research and production-grade engineering.
 I don’t just use models; I build them from first principles.
 
-- 🧠 **Foundation Models:** Built a Hindi GPT from scratch (1.35B tokens) using PyTorch.
-- 📱 **Edge AI:** Expert in on-device LLM inference (GGUF, Quantization, Llama.cpp).
-- 🏗️ **Architectures:** Hands-on implementation of Transformers, YOLOv1, U-Net, and MAEs.
-- 🛠️ **Full-Stack AI:** Specialized in RAG pipelines, FastAPI, and MLOps.
+<ul>
+  <li>🧠 <b>Foundation Models:</b> Built a Hindi GPT from scratch (1.35B tokens) using PyTorch.</li>
+  <li>📱 <b>Edge AI:</b> Expert in on-device LLM inference (GGUF, Quantization, Llama.cpp).</li>
+  <li>🏗️ <b>Architectures:</b> Hands-on implementation of Transformers, YOLOv1, U-Net, and MAEs.</li>
+  <li>🛠️ <b>Full-Stack AI:</b> Specialized in RAG pipelines, FastAPI, and MLOps.</li>
+</ul>
 
-"Building the future, one tensor at a time."
+<i>"Building the future, one tensor at a time."</i>
 ```
 
 ### 🌍 **INDIA** 
