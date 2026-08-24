@@ -19,8 +19,7 @@ I don't just use models — I build them from scratch and ship them to productio
 
 ## 🛠️ Connect with me
 
-📧 **Email**: kumarajaypaonta@gmail.com <br>
-📄 **Portfolio**: [ajstyle007.github.io](https://ajstyle007.github.io/) <br>
+📧 **Email**: kumarajaypaonta@gmail.com 
 🔗 **LinkedIn**: [Ajay Kumar](https://www.linkedin.com/in/ajay-kumar1998/) <br>
 🤗 **Hugging Face**: [musk12](https://huggingface.co/musk12) <br>
 𝕏 **X**: [Aj_Neural](https://x.com/Aj_Neural) <br>
